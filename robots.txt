@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://limewin.ru/
+Sitemap: https://limewin.ru/sitemap.xml
